@@ -1,4 +1,10 @@
 # Amazon-Sales-Data-Analysis
+
+
+<img width="1280" height="685" alt="image" src="https://github.com/user-attachments/assets/b011f82e-5f4f-49d3-991b-fcd62f2ae00f" />
+
+
+
 📌 Project Overview
 
 This project analyzes Amazon sales transactions from **January to April 2025** to understand revenue trends, product performance, and regional sales patterns using **Python, SQL, and Power BI**.
